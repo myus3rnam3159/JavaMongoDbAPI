@@ -52,6 +52,7 @@ public class NhanVien {
     }
 
     public NhanVien() {
+        // gọi constructor của lớp cha tương ứng - nếu có
         super();
     }
 }
